@@ -158,6 +158,8 @@ nav li:first-child{
 /* Footer Menu */
 
 .footer{
+    left:0;
+    right:0;
     background-color: #94b0b3;
     height: 200px;
     padding: 10px 0;
