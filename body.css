@@ -11,7 +11,7 @@ body{
     margin: 0;}
 
 .hero-img {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)), url(/OakvilleMech/Images/full-shot-man-working-with-equipment.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)), url(full-shot-man-working-with-equipment.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
